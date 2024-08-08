@@ -18,3 +18,5 @@ class ToggleFavorite extends BlogEvent {
   @override
   List<Object> get props => [blog];
 }
+
+class FetchFavoriteBlogs extends BlogEvent {}
