@@ -24,6 +24,14 @@ Blog Explorer is a Flutter application designed to fetch, display, and interact 
 ### Installation
 
 1. **Clone the Repository**:
-
-   ```bash
    git clone https://github.com/yourusername/blog_explorer.git
+   
+2. **Navigate to the Project Directory:**:
+   cd blog_explorer
+
+3. **Install Dependencies:**:
+   flutter pub get
+
+4. **Run the Application:**:
+   flutter run
+          
